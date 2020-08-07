@@ -1,0 +1,6 @@
+_help=Put a config file in the root of your project to change script behaviour
+MD_DOCX_PDF_VERBOSE=TRUE
+MD_DOCX_PDF_TITLE=md2docx2pdf by Mr MXF from the CONFIG file
+MD_DOCX_PDF_SCRIPT_VERSION=0.2 (from the config file)
+OUTPUT_FOLDER=docs_output_from_config
+DEFAULT_FILE_GLOB=*/zzz-*.yml
